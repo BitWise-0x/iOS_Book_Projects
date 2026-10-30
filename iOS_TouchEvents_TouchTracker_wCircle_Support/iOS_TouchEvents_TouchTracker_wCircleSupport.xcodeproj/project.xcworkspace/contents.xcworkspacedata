@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/evilkernel/Documents/_dEV/iOS_Book_Projects/iOS_TouchEvents_TouchTracker/iOS_TouchEvents_TouchTracker.xcodeproj">
+      location = "self:iOS_TouchEvents_TouchTracker_wCircleSupport.xcodeproj">
    </FileRef>
 </Workspace>
