@@ -84,11 +84,3 @@ MIT License — see [LICENSE](LICENSE) for details.
 <p align="center">
   <sub>A <a href="https://bitwise0x.com"><b>BitWise</b></a> product</sub>
 </p>
-
-<br>
-
----
-
-<p align="center">
-  <sub>A <a href="https://bitwise0x.com"><b>BitWise</b></a> product</sub>
-</p>
